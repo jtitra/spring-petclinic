@@ -1,0 +1,4 @@
+name: <+service.name>
+replicas: 1
+image: <+artifact.image>
+namespace: <+infra.namespace>
